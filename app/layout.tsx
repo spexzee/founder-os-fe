@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Founder OS",
-  description: "Founder OS",
+  description: "A comprehensive platform for founders to manage and scale their startup operations.",
 };
 
 export default function RootLayout({
